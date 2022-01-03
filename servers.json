@@ -1,0 +1,84 @@
+{
+    "servers": [
+        {
+            "guildid": 898766854552690789,
+            "channelid": 927631445772615710,
+            "invite": "",
+            "verified": false,
+            "links": []
+        },
+        {
+            "guildid": 845992436131561522,
+            "channelid": 927635419011612772,
+            "invite": "https://discord.gg/GqEth97mKk",
+            "verified": false,
+            "links": []
+        },
+        {
+            "guildid": 871450141830283324,
+            "channelid": 876219265567559690,
+            "invite": "",
+            "verified": false,
+            "links": []
+        },
+        {
+            "guildid": 851426630341361675,
+            "channelid": 851849419486003299,
+            "invite": "",
+            "verified": false,
+            "links": []
+        },
+        {
+            "guildid": 918191832830181397,
+            "channelid": 927647992197038170,
+            "invite": "https://discord.gg/jgbTch8PDn",
+            "verified": true,
+            "links": []
+        }
+    ],
+    "ranks": [
+        {
+            "name": "Developer",
+            "icon": "<a:dev:918585926622519336>"
+        },
+        {
+            "name": "Admin",
+            "icon": "<a:admin:918585842304434227>"
+        },
+        {
+            "name": "Moderator",
+            "icon": "<a:ban:918585871966568500>"
+        },
+        {
+            "name": "Booster",
+            "icon": "<a:staff:918585955194126336>"
+        },
+        {
+            "name": "Freund",
+            "icon": "<a:freund:918585971585449984>"
+        }
+    ],
+    "users": [
+        {
+            "clientid": 879416069440303196,
+            "rank": 0
+        },
+        {
+            "clientid": 693913946649788569,
+            "rank": 1
+        },
+        {
+            "clientid": 749974349217398924,
+            "rank": 1
+        },
+        {
+            "clientid": 693913946649788569,
+            "rank": 1
+        }
+    ],
+    "bans": [
+        "441260395416780820",
+        "573879246632648704",
+        "911552586673434634"
+    ]
+}
